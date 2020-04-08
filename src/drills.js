@@ -22,3 +22,4 @@ function binarySearch(arr, val, start=0, end=arr.length) {
 
 // console.log(binarySearch(startArr, 8));
 // console.log(binarySearch(startArr, 16));
+
